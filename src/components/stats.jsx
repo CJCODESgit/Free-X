@@ -1,9 +1,9 @@
 
 
-const Stats = () => {
+const stats = () => {
   return (
     <div>stats</div>
   )
 }
 
-export default Stats
+export default stats
