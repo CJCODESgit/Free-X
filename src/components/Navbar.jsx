@@ -4,6 +4,9 @@ import { close, logo, menu } from '../assets';
 import { navLinks } from '../constants';
 
 const Navbar = () => {
+
+  const [toggle, setToggle] = useState(false);
+
   return (
    <nav className="w-full flex py-6 justify-between items-center navbar">
       <img src={logo} alt="free-x" className="w-[124px] h-[32px]"/>
@@ -20,6 +23,11 @@ const Navbar = () => {
           </li>
         ))}
       </ul>
+
+        <div className="sm:hidden flex flex-1 justify-end items-center">
+          <img src={toggle ? close : menu} />
+        </div>
+
    </nav>
   )
 }
