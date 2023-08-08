@@ -4,7 +4,7 @@ import Button from './Button';
 
 const Business = () => {
   return (
-    <div>Business</div>
+    <section id='features' className={layout}> </section>
   )
 }
 
