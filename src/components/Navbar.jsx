@@ -12,7 +12,7 @@ const Navbar = () => {
       <img 
         src={logo} 
         alt="free-x" 
-        className="w-[124px] h-[32px]"
+        className="w-[150px] h-[50px]"
         />
 
       <ul className="list-none sm:flex hidden justify-end items-center flex-1">
