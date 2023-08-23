@@ -12,9 +12,9 @@ const Hero = () => (
     <div className='flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px] mb-2'>
       <img src={discount} alt="discount" className='w-[32px] h-[32px]'/>
       <p className={`${styles.paragraph}`}>
-         <span className='text-white'>20%</span> Discount For {''}
-      <span className='text-white'>1 MONTH</span> Account
-      </p>    
+         <span className='text-white'>0%</span> fees charged For {''}
+      <span className='text-white'>1 MONTH</span>
+      </p>
     </div>
 
   <div className='flex flex-row justify-between items-center w-full'>
@@ -26,8 +26,7 @@ const Hero = () => (
     </div>
 
       <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>Freelancing Platform.</h1>
-      <p className={`${styles.paragraph} max-w-[470px mt-5 `}>Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. 
-      We examine annual percentage  rates, annual fees.</p>
+      <p className={`${styles.paragraph} max-w-[470px mt-5 `}>Our freelancing platform experts streamline payment choices. We assess transaction efficiency, security, and fees for both crypto and traditional methods. Empowering your freelancing with seamless, confident transactions, bridging modern technology with established reliability</p>
 
   </div>
 

@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "The best Profile Ratings offer some tantalizing combinations of promotions and prizes",
   },
   {
     id: "feature-2",
@@ -37,9 +37,9 @@ export const features = [
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Payment Options",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "An easy payment option with either Crypto or traditional payments. directly to you Blockchain wallet or Bank account",
   },
 ];
 
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Active Users",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Trusted by Employers",
     value: "230+",
   },
   {
     id: "stats-3",
     title: "Transaction",
-    value: "$230M+",
+    value: "$1M+",
   },
 ];
 
