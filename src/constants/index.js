@@ -39,7 +39,7 @@ export const features = [
     icon: send,
     title: "Payment Options",
     content:
-      "An easy payment option with either Crypto or traditional payments. directly to you Blockchain wallet or Bank account",
+      "An easy payment option with either Crypto or traditional payments. directly to your Blockchain wallet or Bank account",
   },
 ];
 
