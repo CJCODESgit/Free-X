@@ -5,8 +5,8 @@ import Button from "./Button";
 const CardDeal = () => (
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
-        <h2 className={styles.heading2}>Find a better card deal <br className="sm:block hidden" /> in few easy steps.</h2>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5 `}>Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.</p>
+        <h2 className={styles.heading2}>Find a better  <br className="sm:block hidden" /> Payment Option</h2>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5 `}>we redefine payment options to cater to your preferences. Seamlessly choose between cutting-edge crypto payments or trusted traditional methods. Embrace the future of finance with the security and efficiency of cryptocurrency, or opt for the reliability of conventional payments.</p>
 
         <Button styles="mt-10"  />
       </div>
