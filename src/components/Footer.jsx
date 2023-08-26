@@ -32,7 +32,11 @@ const Footer = () => (
         </div>
        </div>
        <div>
-        <
+        <div>
+          <p className='font-poppins font-medium text-[18px] leading-[27px] text-white'>
+            2021 Free-X. All Rights Reserved.
+          </p>
+        </div>
        </div>
     </section>
   )
