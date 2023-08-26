@@ -33,9 +33,15 @@ const Footer = () => (
        </div>
        <div>
         <div>
-          <p className='font-poppins font-medium text-[18px] leading-[27px] text-white'>
+          <p className='font-poppins font-normal text-center text-[18px] leading-[27px] text-white'>
             2021 Free-X. All Rights Reserved.
           </p>
+
+          <div className='flex flex-row md:mt-0 mt-6'>
+            {socialMedia.map((social, index) => (
+              
+            ))}
+          </div>
         </div>
        </div>
     </section>
