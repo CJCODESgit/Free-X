@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
+import { people01, people02, people03, facebook, instagram, github, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
 
 export const navLinks = [
   {
@@ -158,22 +158,27 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/cjcodes_/",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://web.facebook.com/lion.leo.9047"
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://twitter.com/CJCODES_",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/john-covenant-amos/",
+  },
+  {
+    id: "social-media-5",
+    icon: github,
+    link: "https://github.com/CJCODESgit",
   },
 ];
 
